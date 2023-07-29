@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TSPabhishek
 - 👀 I’m interested in COde & Chess
-- 🌱 I’m currently learning Btech
+- 🌱 I’m currently Persuing Btech
 - 💞️ I’m looking to collaborate on Backend
 
 
