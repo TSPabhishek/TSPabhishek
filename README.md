@@ -20,8 +20,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kripanshsharma&show_icons=true&locale=en&layout=compact" alt="kripanshsharma" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TSPabhishek&show_icons=true&locale=en&layout=compact" alt="TSPabhishek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kripanshsharma&show_icons=true&locale=en" alt="kripanshsharma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TSPabhishek&show_icons=true&locale=en" alt="TSPabhishek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kripanshsharma&" alt="kripanshsharma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TSPabhishek&" alt="TSPabhishek" /></p>
