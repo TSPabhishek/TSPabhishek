@@ -1,6 +1,6 @@
 <img align="center" alt="Designer and Developer" width="950" src="most-unique-reports-header.gif">
 <h1 align="center">Hi 👋, I'm TSP ABHISHEK </h1>
-<h3 align="center">Pre-final year student at VIT Bhopal</h3>
+<h3 align="center">Graduated From Vellore Institute Of Technology</h3>
 <img align="right" alt="Coding" width="436" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 - 🔭 I’m currently working on **Website Development**
